@@ -21,7 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## QUEEN_ALYA Deployment Methods
+ ## 𝐐𝐔𝐄𝐄𝐍 𝐂𝐇𝐀𝐑𝐈𝐓𝐘 Deployment Methods
 
 ### 1. FORK THIS REPO
 
