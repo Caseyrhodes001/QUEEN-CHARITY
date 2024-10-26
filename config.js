@@ -6,20 +6,20 @@ global.audio = "www.youtube.com";
 global.video = "www.youtube.com";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "kingdavid23565@gmail.com";
+global.email = "palvinkibet46@gmail.com";
 global.location = "Lagos, Nigeria";
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://astrofx0011:astro@cluster0.lmwnxdt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/STAR-KING0/Queen_Alya";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D";
+global.github = process.env.GITHUB || "https://github.com/Caseyrhodes001/QUEEN-CHARITY";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E";
+global.website = process.env.GURL || "https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "./lib/alya.jpg";
 global.devs = "2349123731026";
-global.sudo = process.env.SUDO || "2349123731026";
-global.owner = process.env.OWNER_NUMBER || "2349123731026";
+global.sudo = process.env.SUDO || "254112192119";
+global.owner = process.env.OWNER_NUMBER || "254112192119";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || "+",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`QUEEN_ALYA™`",
-  author: process.env.PACK_AUTHER || "QUEEN_ALYA",
-  packname: process.env.PACK_NAME || "A L Y A",
-  botname: process.env.BOT_NAME || "QUEEN_ALYA",
-  ownername: process.env.OWNER_NAME || "STAR KING",
+  caption: process.env.CAPTION || "`𝐐𝐔𝐄𝐄𝐍 𝐂𝐇𝐀𝐑𝐈𝐓𝐘`",
+  author: process.env.PACK_AUTHER || "𝐐𝐔𝐄𝐄𝐍 𝐂𝐇𝐀𝐑𝐈𝐓𝐘",
+  packname: process.env.PACK_NAME || "𝐂𝐇𝐀𝐑𝐈𝐓𝐘",
+  botname: process.env.BOT_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐂𝐇𝐀𝐑𝐈𝐓𝐘",
+  ownername: process.env.OWNER_NAME || "CASEYRHODES",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
