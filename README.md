@@ -11,10 +11,10 @@
 <a href="https://github.com/Caseyrhodes001/followers"><img title="Followers" src="https://img.shields.io/github/followers/Caseyrhodes001?color=red&style=flat-square"></a>
 <a href="https://github.com/Casehyrodes001/QUEEN-CHARITY/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/STAR-KING0/QUEEN_ALYA?color=blue&style=flat-square"></a>
 <a href="https://github.com/STAR-KING0/Queen_Alya/network/members"><img title="Forks" src="https://img.shields.io/github/forks/STAR-KING0/QUEEN_ALYA?color=red&style=flat-square"></a>
-<a href="https://github.com/STAR-KING0/Queen_Alya/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/STAR-KING0/QUEEN_ALYA?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/STAR-KING0/Queen_Alya/"><img title="Size" src="https://img.shields.io/github/repo-size/STAR-KING0/QUEEN_ALYA?style=flat-square&color=green"></a>
+<a href="https://github.com/Caseyrhodes001/QUEEN-CHARITY/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/STAR-KING0/QUEEN_ALYA?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Caseyrhodes001/QUEEN-CHARITY/"><img title="Size" src="https://img.shields.io/github/repo-size/STAR-KING0/QUEEN_ALYA?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSTAR-KING0%2FQueen_Alya&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/STAR-KING0/Queen_Alya/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Caseyrhodes001/QUEEN-CHARITY/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -70,8 +70,8 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2348100835767"><img src="https://img.shields.io/badge/Contact KING-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/254112192119"><img src="https://img.shields.io/badge/Contact CASEYRHODES-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -85,22 +85,22 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 
-- *QUEEN_ALYA is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *𝐐𝐔𝐄𝐄𝐍 𝐂𝐇𝐀𝐑𝐈𝐓𝐘 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use QUEEN_ALYA at your own risk by keeping this warning in mind.*
+- *Use 𝐐𝐔𝐄𝐄𝐍 𝐂𝐇𝐀𝐑𝐈𝐓𝐘 at your own risk by keeping this warning in mind.*
   
-  #### ```STAR KING PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/STAR-KING0/count.svg)
+  #### ```CASEYRHODES PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/Caseywe/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## Support
 
-SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
-### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/STAR-KING0)
+### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/Caseyrhodes001)
 <b>Version -> 2.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
