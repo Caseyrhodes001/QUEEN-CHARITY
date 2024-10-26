@@ -19,7 +19,7 @@ const os = require("os");
 const speed = require("performance-now");
 smd(
   {
-    pattern: "alyaai",
+    pattern: "charityai",
     desc: "Generate an AI photo.",
     category: "nsfw",
     filename: __filename,
@@ -241,7 +241,7 @@ QUEEN_ALYA ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ, ᴍᴀᴅᴇ ʙʏ 
   *❲❒❳ Forks:* ${_0x44f98c.forks_count} forks
   *❲❒❳ Authors:* Star King
   *❲❒❳ Created On:* ${new Date(_0x44f98c.created_at).toLocaleDateString()}
-  *❲❒❳ Repo:* _https://github.com/STAR-KING0/Queen_Alya_
+  *❲❒❳ Repo:* _https://github.com/Caseyrhodes001/QUEEN-CHARITY_
   *❲❒❳ Scan:* _${scan}_ ${Config.caption ? `\n\n${Config.caption}` : ""}
     `).trim();
 
