@@ -1,15 +1,15 @@
 {
-    "name": "Queen_ALYA",
+    "name": "QUEEN-CHARITY",
     "description": "Simple WhatsApp Bot",
     "logo": "https://telegra.ph/file/b065f0f673cae5452c358.jpg",
-    "keywords": ["STAR-KING0", "ALYA", "Queen_ALYA"],
+    "keywords": ["CASEYRHODES", "CHARITY", "QUEEN-CHARITY"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_ALYA",
+        "value": "QUEEN-CHARITY",
         "required": true
       },
   
