@@ -6,9 +6,9 @@
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/b065f0f673cae5452c358.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{STAR-KING0}/count.svg" alt="STAR-KING0 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Caseyrhodes001}/count.svg" alt="STAR-KING0 :: Visitor's Count" /></p>
 <p align="center">
-<a href="https://github.com/STAR-KING0/followers"><img title="Followers" src="https://img.shields.io/github/followers/STAR-KING0?color=red&style=flat-square"></a>
+<a href="https://github.com/Caseyrhodes001/followers"><img title="Followers" src="https://img.shields.io/github/followers/Caseyrhodes001?color=red&style=flat-square"></a>
 <a href="https://github.com/STAR-KING0/Queen_Alya/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/STAR-KING0/QUEEN_ALYA?color=blue&style=flat-square"></a>
 <a href="https://github.com/STAR-KING0/Queen_Alya/network/members"><img title="Forks" src="https://img.shields.io/github/forks/STAR-KING0/QUEEN_ALYA?color=red&style=flat-square"></a>
 <a href="https://github.com/STAR-KING0/Queen_Alya/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/STAR-KING0/QUEEN_ALYA?label=Watchers&color=blue&style=flat-square"></a>
