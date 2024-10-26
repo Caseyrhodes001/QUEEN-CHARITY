@@ -17,7 +17,7 @@ global.github = process.env.GITHUB || "https://github.com/Caseyrhodes001/QUEEN-C
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "./lib/alya.jpg";
-global.devs = "2349123731026";
+global.devs = "254112192119";
 global.sudo = process.env.SUDO || "254112192119";
 global.owner = process.env.OWNER_NUMBER || "254112192119";
 global.style = process.env.STYLE || "3";
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "A L Y A").toUpperCase(),
+  LANG: (process.env.THEME || "𝐂𝐇𝐀𝐑𝐈𝐓𝐘").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = true;
