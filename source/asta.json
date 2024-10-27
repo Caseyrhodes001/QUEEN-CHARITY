@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "STAR KING",
-    "theme": "QUEEN_ALYA",
+    "AUTHOR": "CASEYRHODES",
+    "theme": "QUEEN-CHARITY",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -10,7 +10,7 @@
             "UPDATED_LOCAL": "Updated Bot successfully"
         },  
         "global": {      
-            "botName": "QUEEN_ALYA",
+            "botName": "QUEEN-CHARITY",
             "body": "Simple WhatsApp Bot", 
             "greet2" : "GoodDay SIR",
             "pic1": "https://telegra.ph/file/b065f0f673cae5452c358.jpg", 
@@ -23,7 +23,7 @@
             "greet" : "Hey there",
             "dotbody" : "Oh hello My Creator.",
             "emojii" : "💓", 
-            "promote": "Alya is an Admin",
+            "promote": "Charity is an Admin",
             "pmallow": "Hello &user Do not Spam",
             "permited": "Hello Sir you Can Message Me Now.", 
             "revoked" : "Hello sir your Permission was rejected.",
@@ -31,9 +31,9 @@
             "antlink": "Link Detected.\n*I Have rremoved the violator*",
             "session": "\n kepp your session id safe sir",
             "mention": "Tag my owner",
-            "title": "QUEEN_ALYA",
-            "footer": "QUEEN_ALYA",
-            "by": "Made by Star King",
+            "title": "QUEEN-CHARITY",
+            "footer": "QUEEN-CHARITY",
+            "by": "Made by Caseyrhodes001",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
