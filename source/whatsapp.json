@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Star King",
-    "Theme": "QUEEN_ALYA",
+    "AUTHOR": "Caseyrhodes",
+    "Theme": "QUEEN-CHARITY",
     "LANGCODE": "en",
     "STRINGS": {  
         "updater": {    
@@ -10,7 +10,7 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },    
         "global": {   
-            "botName": "QUEEN_ALYA",
+            "botName": "QUEEN-CHARITY",
             "body": "As always Sir.",
           "greet2" : "Hello Sir",
             "pic1": "https://telegra.ph/file/b065f0f673cae5452c358.jpg",
@@ -23,17 +23,17 @@
              "greet" : "Sir", 
            "dotbody" : "Oh, hello sir..",
             "promote": "Admin Role Privileged",
-            "pmallow": "*Hii,This is QUEEN_ALYA*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
-            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 QUEEN_ALYA",
+            "pmallow": "*Hii,This is QUEEN-CHARITY*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 QUEEN-CHARITY",
             "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s).",
-            "permited": "Hii ${tname}*\n\nNow You are permitted by my owner to pm now.\n\n *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 QUEEN_ALYA*", 
-            "revoked" : "*Hii ${tname}*\n\nYour pm permit permission has been prevoked now.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 QUEEN_ALYA",
+            "permited": "Hii ${tname}*\n\nNow You are permitted by my owner to pm now.\n\n *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 QUEEN-CHARITY*", 
+            "revoked" : "*Hii ${tname}*\n\nYour pm permit permission has been prevoked now.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 QUEEN-CHARITY",
             "demote": "Uhh,Admin Role Taken back",
             "antlink": "Link Detected.\n*Good Bye Bro*",
             "session": "\n*This is your session.sam.json,keep it safe",
             "mention": " Please atleast mention any user bro.",
-            "title": "QUEEN_ALYA",
-            "footer": "QUEEN_ALYA",
+            "title": "QUEEN-CHARITY",
+            "footer": "QUEEN-CHARITY",
             "by": "Made by: *Star King*",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
